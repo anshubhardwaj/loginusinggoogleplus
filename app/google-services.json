@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "201348165102",
+    "firebase_url": "https://fir-tetplus.firebaseio.com",
+    "project_id": "firebase-tetplus",
+    "storage_bucket": "firebase-tetplus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201348165102:android:edbe2adfc97f6fa5",
+        "android_client_info": {
+          "package_name": "com.example.anshubhardwaj.loginusinggoogleplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201348165102-6tgaqbvedn7ocfp6i5qv3dc5bnkqko3u.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "201348165102-t8q4chqcgibfjcjgrtv3843cmult6m8k.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "201348165102-2vilffprumfvdbkd1livnbvv5pqd8cvg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anshubhardwaj.loginusinggoogleplus",
+            "certificate_hash": "6c6d6662d0f15c839c8a1f3611f40fa6a48d7311"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvhkZFWMzf9GihU_s2EWO4mZ9VDuUEqU4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201348165102-6tgaqbvedn7ocfp6i5qv3dc5bnkqko3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
